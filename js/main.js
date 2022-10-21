@@ -1,5 +1,4 @@
 $(document).ready(function () {
-  // process bar
   setTimeout(function () {
     firstQuestion();
     $(".spinner").fadeOut();
@@ -7,7 +6,7 @@ $(document).ready(function () {
     $("body").delay(350).css({
       overflow: "visible",
     });
-  }, 600);
+  }, 300);
 });
 
 function init() {
