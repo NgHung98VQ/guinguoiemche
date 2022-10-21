@@ -124,7 +124,7 @@ $("#yes").click(function () {
         text: CONFIG.messDesc,
         confirmButtonColor: "#83d0c9",
         onClose: () => {
-          document.getElementById("bg").style = "background-image:url(https://github.com/NgHung98VQ/guinguoiemche/img/k.jpg);"
+          document.getElementById("bg").style = "background-image:url(https://i.pinimg.com/236x/af/8b/22/af8b22e46427d218378d87f8fa036cbc.jpg);"
         },
       });
     }
